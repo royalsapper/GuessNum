@@ -1,4 +1,7 @@
-﻿using System;
+// GuessNum Created by Kim Ju-hwan
+// jaiuer@hotmail.com
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
